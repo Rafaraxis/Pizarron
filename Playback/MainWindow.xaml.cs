@@ -40,6 +40,7 @@ namespace Playback
 
             += sldPosition_DragCompleted;
         }
+        //hola
         private void OnTimerTick(object sender, EventArgs  e)
         {
             if (reader != null && !dragging)
